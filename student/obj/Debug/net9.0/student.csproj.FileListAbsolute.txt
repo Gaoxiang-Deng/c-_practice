@@ -1,0 +1,14 @@
+/Users/gaoxiangdeng/RiderProjects/ConsoleApp2/student/bin/Debug/net9.0/student
+/Users/gaoxiangdeng/RiderProjects/ConsoleApp2/student/bin/Debug/net9.0/student.deps.json
+/Users/gaoxiangdeng/RiderProjects/ConsoleApp2/student/bin/Debug/net9.0/student.runtimeconfig.json
+/Users/gaoxiangdeng/RiderProjects/ConsoleApp2/student/bin/Debug/net9.0/student.dll
+/Users/gaoxiangdeng/RiderProjects/ConsoleApp2/student/bin/Debug/net9.0/student.pdb
+/Users/gaoxiangdeng/RiderProjects/ConsoleApp2/student/obj/Debug/net9.0/student.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gaoxiangdeng/RiderProjects/ConsoleApp2/student/obj/Debug/net9.0/student.AssemblyInfoInputs.cache
+/Users/gaoxiangdeng/RiderProjects/ConsoleApp2/student/obj/Debug/net9.0/student.AssemblyInfo.cs
+/Users/gaoxiangdeng/RiderProjects/ConsoleApp2/student/obj/Debug/net9.0/student.csproj.CoreCompileInputs.cache
+/Users/gaoxiangdeng/RiderProjects/ConsoleApp2/student/obj/Debug/net9.0/student.dll
+/Users/gaoxiangdeng/RiderProjects/ConsoleApp2/student/obj/Debug/net9.0/refint/student.dll
+/Users/gaoxiangdeng/RiderProjects/ConsoleApp2/student/obj/Debug/net9.0/student.pdb
+/Users/gaoxiangdeng/RiderProjects/ConsoleApp2/student/obj/Debug/net9.0/student.genruntimeconfig.cache
+/Users/gaoxiangdeng/RiderProjects/ConsoleApp2/student/obj/Debug/net9.0/ref/student.dll
